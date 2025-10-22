@@ -1,0 +1,23 @@
+Networked Inequality: preferential attachment bias(subramonia, sagun & sun)
+https://openreview.net/forum?id=4i4fgCOBDEL 
+https://arxiv.org/abs/2309.17417
+
+Medium discussion of of spotify gcn
+https://medium.com/stanford-cs224w/spotify-track-neural-recommender-system-51d266e31e16
+
+Maryam & curtis' paper: READ REVIEWER SECTION & DIG INTO BIBLIOGRAPHY
+https://www.qeios.com/read/074O28#nJ95OeuhKQRh
+
+
+another non-academic reference on gcns
+https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95/
+
+Spectral graph theory:
+https://users.cms.caltech.edu/~vidick/notes/CMS139/spectral.pdf`
+
+Various SE threads and bullshit:
+https://math.stackexchange.com/questions/3035968/interpretation-of-symmetric-normalised-graph-adjacency-matrix
+
+
+Kaggle Dataset:
+https://www.kaggle.com/datasets/gingerbadger/redditmods-moderators-of-top-25k-subreddits/data
