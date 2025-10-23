@@ -1,0 +1,9 @@
+10/6/2025: (tara)
+-Verne access granted for me + amelia
+-gdrive folder shared
+TODO:
+- upload research files from Ukiyo to drive
+- reread maryam's paper, then repeat analyses on redditmod data
+
+LONGTERM:
+find other bipartite graphs, check/hope for asymmetries in the power law distributions

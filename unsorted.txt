@@ -1,0 +1,18 @@
+overall ideas:
+Link prediction while matching 2 objects.
+
+
+Preferential attachment:
+-concept: nodes with "more friends" are likely to predict having "more friends". on a longer playlist, any particular song is more likely to show up, and therefore more likely to be predicted. property of both a graph formation procedure (barabasi-albert distributions) but a source of potential biases- feedback loop of a few more links than actually true in some places, and much less links in others.
+
+-resolution: control the [probability? loss?] function by normalizing the matrix by multiplying by the inverse of its diagonal matrix [A=PDP^{-1}, A_norm=D^{-1}A. D^{1}] is a diagonal matrix, therefore arbitrary roots exist (just take roots of the values) and commutes with anything. theres some reason they like to write D^{-1/2}AD^{-1/2} in the literature.
+
+
+
+question:
+-can a gcn based approach violate bipartite/ 2-sample structure?
+	probably not. likely to pick up some structure in early training epochs to "recognize" this
+	IDK if its theoretically possible- maryam's paper or the medium article may explain
+
+-does bipartite structure affect preferential attachment in any way? 
+	-needs lit check or math to be worked out, possibly both
